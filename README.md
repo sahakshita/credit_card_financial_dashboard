@@ -6,17 +6,6 @@ Built an end-to-end business intelligence and data analytics solution using Powe
 
 ---
 
-## Dashboard Preview
-*Preview of the weekly Power BI dashboard reports:*
-
-### Weekly Transaction Report
-![Transaction Dashboard Preview](transaction_report.png)
-
-### Weekly Customer Report
-![Customer Dashboard Preview](customer_report.png)
-
----
-
 ## Tech Stack & Key Features
 * **BI and Visualization:** Power BI Desktop, DAX.
 * **Key DAX Techniques Used:**
@@ -35,8 +24,7 @@ Built an end-to-end business intelligence and data analytics solution using Powe
 ---
 
 ## Repository Contents
+* **`Credit_Card_Financial_Dashboard.pbix`** — The complete Power BI interactive report file.
 * **`Credit_Card_Portfolio_Report.pdf`** — Executive summary report detailing YTD findings and weekly momentum.
-* **`credit_card_transaction.pdf`** — High-resolution dashboard view of the weekly Transaction Report.
-* **`credit_card_customer.pdf`** — High-resolution dashboard view of the weekly Customer Report.
 * **`credit_card.csv` & `customer.csv`** — Primary transaction and customer raw datasets.
 * **`cc_add.csv` & `cust_add.csv`** — Incremental weekly data files used for updates.
