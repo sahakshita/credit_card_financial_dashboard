@@ -1,5 +1,4 @@
 # Credit Card Financial & Customer Weekly Analytics Dashboard
-**Author:** Akshita Sah
 
 ## Executive Summary
 Built an end-to-end business intelligence and data analytics solution using Power BI and DAX to track and analyze weekly credit card operations, revenue trends, customer profitability, and risk metrics across 10,000+ customer records and 667K+ transactions. Designed specifically for stakeholder monitoring in the financial and banking domain.
