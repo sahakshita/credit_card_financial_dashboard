@@ -24,7 +24,7 @@ Built an end-to-end business intelligence and data analytics solution using Powe
 ---
 
 ## Repository Contents
-* **`credit_card_financial_dashboard_....pbix`** — The complete Power BI interactive report file.
+* **`credit_card_financial_dashboard_pbix`** — The complete Power BI interactive report file.
 * **`Credit_Card_Portfolio_Report.pdf`** — Executive summary report detailing YTD findings and weekly momentum.
 * **`credit_card_transaction.pdf` & `credit_card_customer.pdf`** — High-resolution exported views of the dashboard pages.
 * **`credit_card.csv` & `customer.csv`** — Primary transaction and customer raw datasets.
